@@ -5,6 +5,7 @@ const Home = () => {
   const productList =[
     {name:"Mac Book", price:"12000", imgSrc:'asd', id:'dfjsdhfjsdhf'},
     {name:"shoes", price:"120", imgSrc:'asd', id:'dfjsdhfdsfsdjsdhf'},
+    {name:"shoes", price:"120", imgSrc:'asd', id:'dsfsdfsdfsdfdsdfsdf'},
   ]
 
   const addToCartHandler =(options)=>{
